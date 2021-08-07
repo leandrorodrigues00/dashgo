@@ -22,7 +22,7 @@ export function Profile({showProfileData=true}:ProfileProps) {
       <Avatar
         size="md"
         name="Leandro Rodrigues"
-        src="https://cdn.ome.lt/2GjXUqG8O9ahfUIpYOPFZif06Ug=/970x360/smart/uploads/conteudo/fotos/kratos1_HVpdorX.jpg"
+        src="https://avatars.githubusercontent.com/u/26658051?s=60&v=4"
       />
     </Flex>
   );
