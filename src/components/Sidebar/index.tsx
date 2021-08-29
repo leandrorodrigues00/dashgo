@@ -13,7 +13,7 @@ import { useSidebarDrawer } from "../../contexts/SidebarDrawerContext";
 import { SidebarNav } from "./SidebarNav";
 
 export function Sidebar() {
-  const { isOpen, onClose} = useSidebarDrawer()
+  const { isOpen, onClose } = useSidebarDrawer();
 
   const isDrawerSidebar = useBreakpointValue({
     base: true,
