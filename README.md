@@ -51,7 +51,7 @@ $ git clone https://github.com/leandrorodrigues00/dashgo.git && cd dashgo
 $ yarn
 
 # Start the app
-$ yarn start
+$ yarn dev
 ```
 
 ## 📝 License
