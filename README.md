@@ -18,7 +18,7 @@
 
 Dashgo is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
 
-The idea of the application was the construction of interfaces in NextJs using a front-end library of visual components, the Chakra UI.
+The idea of the application was the construction of interfaces in NextJs using a front-end library of visual components, <b>Chakra UI</b>.
 
 [click here, see closer](https://dashgo-nine-zeta.vercel.app/)  😉 
 
