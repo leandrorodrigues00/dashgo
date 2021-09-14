@@ -25,10 +25,11 @@ The idea of the application was the construction of interfaces in NextJs using a
 
 ## 🚀 Technologies
 
-- [Typescript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org)
-- [NextJs](https://nextjs.org/)
-- [Chakra UI](https://chakra-ui.com/)
+* [React](https://pt-br.reactjs.org/E)
+* [Next.js](https://nextjs.org/)
+* [Chakra UI](https://chakra-ui.com/)
+* [Yup](https://github.com/jquense/yup)
+* [React Hook Form](https://react-hook-form.com/)
 
 ## 💻 Getting started
 
