@@ -14,7 +14,7 @@
   <img alt="homePage" src=".github/home.png" width="100%">
 </p>  
 
-## 💲 About the project
+## 📌 About the project
 
 Dashgo is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
 
